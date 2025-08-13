@@ -31,14 +31,14 @@ Both pages include:
 ## 📸 Screenshots
 
 ### 1. Login Page
-![Login Page Screenshot](loginpage.png)
+![Login Page Screenshot](login_page.png)
 
 ### 2. Sign-in Page
-![Sign-in Page Screenshot](screenshots/signin.png)
+![Sign-in Page Screenshot](signin_page.png)
 
 ---
 
 ## ⚙️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/MohammadAathiya/MSD_Login-Signup_Page.git
